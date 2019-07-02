@@ -10,6 +10,7 @@ modified: 2016-02-01
 ---
 
 Hey,我是小楼，一个NLPer.
+热爱健身。现在北京读书。
 
 
 [^1]: Example: *domain.com/category-name/post-title*
